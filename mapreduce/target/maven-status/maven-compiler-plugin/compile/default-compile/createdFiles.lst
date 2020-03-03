@@ -1,0 +1,8 @@
+pers\hadoop\demo\mapreduce\wordcount\MyReducer.class
+pers\hadoop\demo\mapreduce\rank\MyReducer$1.class
+pers\hadoop\demo\mapreduce\rank\MyReducer.class
+pers\hadoop\demo\mapreduce\wordcount\MyMapper.class
+pers\hadoop\demo\mapreduce\rank\MyCombiner.class
+pers\hadoop\demo\mapreduce\rank\MyMapper.class
+pers\hadoop\demo\mapreduce\rank\RankApp.class
+pers\hadoop\demo\mapreduce\wordcount\WordCountApp.class
